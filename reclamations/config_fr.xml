@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>reclamations</name>
+    <displayName><![CDATA[Module de r&eacute;clamation]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Le module qui permet aux clients de faire des r&eacute;clamations]]></description>
+    <author><![CDATA[EFIPEEK]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Es-tu sûr de vouloir désinstaller ce module qui est vraiment génial ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
